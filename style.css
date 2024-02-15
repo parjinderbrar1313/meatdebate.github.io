@@ -1,0 +1,22 @@
+
+body {
+    background: url('path-to-sikh-flag-image.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+header, .introduction, .debate-sections, aside, footer {
+    margin: 1rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+}
+
+.appointment-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #007bff;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
